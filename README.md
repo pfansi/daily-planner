@@ -3,5 +3,31 @@
 ## Task Description
 
 I will build a daily calendar planner that will help the user to manage his time.
-The user will be able to save any future event within any choosen working hour session of the day .
-The calendar planner will be styled the way that the user will visually see and make a difference among the current , past and future event .
+The user will be able to save any future event within any chosen working hour session of the day .
+The calendar planner will be styled the way that the user will visually see and make a difference among the current , past and future events .
+
+## Pseudo code description
+
+- When the user open the application , the current date and time is display on top f the page
+
+- 8 timeblocks are displayed at the bottom from 9AM to 5PM
+
+- The time block displaying the current time , the past time and the future time are labeled with a specific color that differentiate them.
+
+- If i click on a timeblock , i can entered a text
+
+- if i enter a text , i can save if using a save button
+
+- if i refresh the page , the text is still displaying
+
+## Git Repository
+
+I created a git repository folder that will host the finish website. The Repository will be found [here](https://github.com/pfansi/daily-planner)
+
+## What have you done
+
+- Created a readme.md file to describe the different building phases of the application.
+
+- broken down the different phase and functionality of the application.
+
+- created an index.html , script.js and style.css file .
