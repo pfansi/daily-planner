@@ -31,3 +31,29 @@ I created a git repository folder that will host the finish website. The Reposit
 - broken down the different phase and functionality of the application.
 
 - created an index.html , script.js and style.css file .
+
+- created the main content layout using boostrap library
+
+- imported the Jquery Javascript API library link at the bottom of index.html - It will be used to manipulate the DOM elemnt of the application via event handling.
+
+- imported the Font Awesome icon library to be able to use the vector save favicon omn the save buttons.
+
+- commented index.html page to describe the page layout.
+
+- declared the variable current time using moment.js library methods.
+
+- declared all the variable times that will be display on the timeblock.
+
+- created a function that will check current and class which timeblock in current , in th epast or in the future . The specific colour will then be assign depending on their temporal state.
+
+## Screenshots
+
+- This is the screenshot of the final application. ![screenshot](./images/daily_planner.jpg)
+
+## Link to the deploy application
+
+https://pfansi.github.io/daily-planner/
+
+## link to the git hub repository
+
+https://github.com/pfansi/daily-planner
