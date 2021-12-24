@@ -48,7 +48,7 @@ I created a git repository folder that will host the finish website. The Reposit
 
 ## Screenshots
 
-- This is the screenshot of the final application. ![screenshot](./images/daily_planner.jpg)
+- This is the screenshot of the final application. ![screenshot](./images/daily_planner.JPG)
 
 ## Link to the deploy application
 
